@@ -112,7 +112,7 @@
           </div>
           <div class="text-2 color1">
             <a href="#">Photographer</a> &bull;
-            <a href="#">Coder</a> &bull;
+            <a href="#">Web Developer</a> &bull;
             <a href="#">Designer</a>
           </div>
           <p>Follow the link to learn more about this <a rel="nofollow" href="http://blog.templatemonster.com/free-website-templates/" class="color1">goodie</a>.  </p>
@@ -153,17 +153,17 @@
         <div class="clear"></div>
         <div class="element ill">
           <div>
-            <a href="images/big4.jpg" class="gall-item"><img src="images/gal_img4.jpg" alt=""><span></span></a>
+            <a href="images/big4.jpg" class="gall-item"><img src="walo.JPG" alt=""><span></span></a>
           </div>
         </div>
         <div class="element ill">
           <div>
-            <a href="images/big5.jpg" class="gall-item"><img src="images/gal_img5.jpg" alt=""><span></span></a>
+            <a href="#" class="images/web.png"><img src="images/web.png" alt=""><span></span></a>
           </div>
         </div>
         <div class="element design">
           <div>
-            <a href="images/Branding.png" class="gall-item"><img src="images/gal_img6.jpg" alt=""><span></span></a>
+            <a href="images/Branding.png" class="gall-item"><img src="images/Branding.png" alt=""><span></span></a>
           </div>
         </div>
       </div>
@@ -211,20 +211,21 @@
       <div class="block-1">
         <div class="grid_4 alpha">
           <div class="block-1__left">
-            <h3>2012 - Present</h3>
+            <h3>2018 - Present</h3>
             <time  datetime="2014-01-01" class="text-2">March</time>
             <div class="ta__right">
-              <div class="text-2 color1">Design Studio</div>
-              Lorem ipsum dolor sit tetur dipiscing elit. In mollis erat mattis neque facilisis.
+              <div class="text-2 color1"><strong>Graphic design</strong></div>
+              Am a graduate from Tunapananda institute. The institute specializes in Technology and design. 
             </div>
           </div>
         </div>
         <div class="grid_8 omega">
           <div class="block-2__right">
             <h3>Job Description</h3>
-            <div class="text-2">Graphic Designer</div>
-            <p>Dorem ipsum dolor sit tetur dipiscing elit. In mollis erat mattis neque facilisis, situltries wertolio dasererat rutrum. Lorem ipsum dolor sit tetur dipiscing elit.  </p>
-            Oliquam nibh ante, egestas id dictum a, commodo luctus libero. Praesent faucibus malesuadar faucibusonec laoreet metus id laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elitllam consectetur orci sed nulla facilisis consequaturabitur vel lorem sit
+            <div class="text-2"><strong>Graphic Designer</strong></div>
+            <p>Am a certified graphic designer in Gimp and inkscape (2D) Also am a 3D skilled designer by Bleder. The skills vary from 
+															making posters to business cards and Logos. My work will make your business outstand 
+															in the competetive market. 
           </div>
         </div>
       </div>
@@ -243,8 +244,9 @@
           <div class="block-2__right">
             <h3>Job Description</h3>
             <div class="text-2">Graphic Designer</div>
-            <p>Lorem ipsum dolor sit tetur dipiscing elit. In mollis erat mattis neque facilisis, situltries wertolio dasererat rutrum. Lorem ipsum dolor sit tetur dipiscing elit.  </p>
-            Aliquam nibh ante, egestas id dictum a, commodo luctus libero. Praesent faucibus malesuadar faucibusonec laoreet metus id laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elitllam consectetur orci sed nulla facilisis consequaturabitur vel lorem sit
+            <p>Am a certified graphic designer in Gimp and inkscape (2D) Also am a 3D skilled designer by Bleder. The skills vary from 
+															making posters to business cards and Logos. My work will make your business outstand 
+															in the competetive market. 
           </div>
         </div>
       </div>
@@ -268,9 +270,9 @@
     </div>
     <div class="grid_4">
       <blockquote class="bq1">
-        <img src="images/page-img_3.jpg" alt="">
+        <img src="images/walo.JPG" alt="">
         <div class="extra_wrapper">
-          <div class="text-2"><a href="#">Anwar Magara</a></div>
+          <div class="text-2"><a href="#">Walo Walo</a></div>
           Morem ipsum dolor sittur dipiscing elit. In molliserat mattis neque facilisisltries wertolio daserera
         </div>
       </blockquote>
