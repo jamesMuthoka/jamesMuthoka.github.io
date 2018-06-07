@@ -498,14 +498,14 @@ a.color1:hover {
 /**Footer**/
 #footer {
   padding: 39px 0 54px;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 16px;
   font-weight: normal;
   text-align: center;
   color: #ffffff;
 }
 #footer a:hover {
-  text-decoration: underline;
+  text-decoration:bold;
 }
 #toTop {
   background-color: #656262;
@@ -521,7 +521,7 @@ a.color1:hover {
   color: #ffffff;
   width: 71px;
   height: 71px;
-  font-size: 10px;
+  font-size: 15px;
   line-height: 65px;
   text-align: center;
   z-index: 20;
@@ -531,5 +531,5 @@ a.color1:hover {
 }
 #toTop:hover {
   outline: none;
-  background-color: #000000;
+  background-color: #0ccdf0 ;
 }
