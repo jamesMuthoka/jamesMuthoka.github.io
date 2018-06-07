@@ -74,8 +74,6 @@
            <li><a href="#portfolio">Portfolio</a></li>
            <li><a href="#skills">Skills</a></li>
            <li><a href="#experience">Experience</a></li>
-           <li><a href="#testimonials">Testimonials</a></li>
-           <li><a href="#contacts">Contacts</a></li>
          </ul>
         </nav>
       </div>
@@ -137,17 +135,17 @@
       <div class="el gallery" id="isotope">
         <div class="element design">
           <div>
-            <a href="images/big1.jpg" class="gall-item"><img src="images/gal_img1.jpg" alt=""><span></span></a>
+            <a href="images/big1.jpg" class="gall-item"><img src="images/james.png" alt=""><span></span></a>
         </div>
         </div>
         <div class="element photo">
           <div>
-            <a href="images/big2.jpg" class="gall-item"><img src="images/gal_img2.jpg" alt=""><span></span></a>
+            <a href="images/big2.jpg" class="gall-item"><img src="images/wk.png" alt=""><span></span></a>
           </div>
         </div>
         <div class="element  photo">
           <div>
-            <a href="images/big3.jpg" class="gall-item"><img src="images/gal_img3.jpg" alt=""><span></span></a>
+            <a href="images/big3.jpg" class="gall-item"><img src="images/zacks.P" alt=""><span></span></a>
           </div>
         </div>
         <div class="clear"></div>
@@ -185,13 +183,13 @@
     </div>
     <div class="grid_3">
       <div class="circle">
-          <input class="knob" data-angleOffset="0" value="82" data-fgColor="#2a797b" data-bgColor="#3a556e" data-width="226" data-height="226" data-thickness=.2>
+          <input class="knob" data-angleOffset="0" value="82" data-fgColor=" #f01a0c " data-bgColor="#3a556e" data-width="226" data-height="226" data-thickness=.2>
         </div>
       <div class="text-3"><a href="#">HTML5/CSS3</a></div>
     </div>
     <div class="grid_3">
       <div class="circle">
-          <input class="knob" data-angleOffset="0" value="30" data-fgColor="#2a797b" data-bgColor="#3a556e" data-width="226" data-height="226" data-thickness=.2>
+          <input class="knob" data-angleOffset="0" value="30" data-fgColor=" #0cdff0 " data-bgColor="#3a556e" data-width="226" data-height="226" data-thickness=.2>
         </div>
       <div class="text-3"><a href="#">Photography</a></div>
     </div>
@@ -208,41 +206,10 @@
   <div class="container_12">
     <div class="grid_12">
       <h2>Work Experience</h2>
-      <div class="block-1">
         <div class="grid_4 alpha">
-          <div class="block-1__left">
-            <h3>2018 - Present</h3>
-            <time  datetime="2014-01-01" class="text-2">March</time>
-            <div class="ta__right">
+            <div class="ta__centre">
               <div class="text-2 color1"><strong>Graphic design</strong></div>
-              Am a graduate from Tunapananda institute. The institute specializes in Technology and design. 
-            </div>
-          </div>
-        </div>
-        <div class="grid_8 omega">
-          <div class="block-2__right">
-            <h3>Job Description</h3>
-            <div class="text-2"><strong>Graphic Designer</strong></div>
-            <p>Am a certified graphic designer in Gimp and inkscape (2D) Also am a 3D skilled designer by Bleder. The skills vary from 
-															making posters to business cards and Logos. My work will make your business outstand 
-															in the competetive market. 
-          </div>
-        </div>
-      </div>
-      <div class="block-1">
-        <div class="grid_4 alpha">
-          <div class="block-1__left">
-            <h3>2007 - 2012</h3>
-            <time  datetime="2014-01-01" class="text-2">April <span>August</span></time>
-            <div class="ta__right">
-              <div class="text-2 color1">Freelancer</div>
-              Lorem ipsum dolor sit tetur dipiscing elit. In mollis erat mattis neque facilisis.
-            </div>
-          </div>
-        </div>
-        <div class="grid_8 omega">
-          <div class="block-2__right">
-            <h3>Job Description</h3>
+              Am a graduate from Tunapananda institute. The institute specializes in Technology and design.
             <div class="text-2">Graphic Designer</div>
             <p>Am a certified graphic designer in Gimp and inkscape (2D) Also am a 3D skilled designer by Bleder. The skills vary from 
 															making posters to business cards and Logos. My work will make your business outstand 
@@ -254,45 +221,7 @@
     <div class="clear"></div>
   </div>
 </section>
-<section id="testimonials" class="page">
-  <div class="container_12">
-    <div class="grid_12">
-      <h2 class="color2">Testimonials</h2>
-    </div>
-    <div class="grid_4">
-      <blockquote class="bq1">
-        <img src="images/pato.JPG" alt="">
-        <div class="extra_wrapper">
-          <div class="text-2"><a href="#">Patrick Ndung`u</a></div>
-          Korem ipsum dolor sittur dipiscing elit. In molliserat mattis neque facilisisltries wertolio dasererat
-        </div>
-      </blockquote>
-    </div>
-    <div class="grid_4">
-      <blockquote class="bq1">
-        <img src="images/walo.JPG" alt="">
-        <div class="extra_wrapper">
-          <div class="text-2"><a href="#">Walo Walo</a></div>
-          Morem ipsum dolor sittur dipiscing elit. In molliserat mattis neque facilisisltries wertolio daserera
-        </div>
-      </blockquote>
-    </div>
-    <div class="grid_4">
-      <blockquote class="bq1">
-        <img src="images/hamza.JPG" alt="">
-        <div class="extra_wrapper">
-          <div class="text-2"><a href="#">Jimia Hamza</a></div>
-          Torem ipsum dolor sittur dipiscing elit. In molliserat mattis neque facilisisltries wertolio dasererum
-        </div>
-      </blockquote>
-    </div>
-    <div class="clear"></div>
-  </div>
-</section>
-<section id="contacts" class="page">
-  <div class="container_12">
-    <div class="grid_12">
-      <h2>Get in Touch</h2>
+      											<h2><strong>Get in Touch</strong></h2>
     </div>
     <div class="grid_6">
       <form id="contact-form">
@@ -340,12 +269,11 @@
       <div class="grid_6">
         <p>24/7 support is on for all <a href="http://www.templatemonster.com/" rel="nofollow" class="color1">premium templates</a>.</p>
         <p><a href="http://www.templatetuning.com/" rel="nofollow" class="color1">TemplateTuning</a> will help you with customization of the chosen <br> theme.</p>
-        The Company Name Inc. <br>
-        9870 St Vincent Place,<br>
-        Glasgow, DC 45 Fr 45.<br>
-        Telephone: +1 800 603 6035<br>
-        FAX: +1 800 889 9898<br>
-        E-mail: <a href="mailto:mail@demolink.org">mail@demolink.org</a>
+        James Muthoka Musila. <br>
+        Kenya nairobi city,<br>
+        Nairobi Kenya,<br>
+        Contact: +254 701851157<br>
+        E-mail: <a href="muthoka844@mail.com">muthoka844@gmail.com</a>
       </div>
     <div class="clear"></div>
   </div>
@@ -372,9 +300,6 @@
 <footer id="footer">
   <div class="container_12">
     <div class="grid_12">
-      <div class="copyright"> &copy; <span id="copyright-year">2014</span>| <a href="#">Privacy Policy </a> <br>
-       Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
-      </div>
     </div>
   </div>
   <div class="clear"></div>
