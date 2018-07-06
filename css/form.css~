@@ -119,7 +119,7 @@
 	position:relative;
 	display: block;
 	min-height: 61px;
-	float: left;
+	float: right;
 	width: 273px;
 	clear: left;
 }
